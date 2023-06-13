@@ -88,6 +88,7 @@ let allMusic = [
     artist: "Jordan Schor",
     img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/600px-Cat03.jpg",
     src: "https://github.com/Digilaser/Reproductor/raw/main/music-1.mp3"
+    tags: ['dubstep']
   },
   {
     name: "14 Podemos Repetirlo",
